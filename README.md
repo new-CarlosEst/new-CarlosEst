@@ -43,7 +43,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)&nbsp;
 
-<!-- -->
+<!-- Estadisticas y lenguajes -->
 <p align="center">
   <a href="https://github.com/new-CarlosEst">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=new-CarlosEst&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -52,4 +52,20 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=new-CarlosEst&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
+<h2></h2>
+<!-- Para conetactarme -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/carlos-esteban-diez-784743346/" target="blank"><img align="center"
+        src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"
+        alt="Carlos Esteban Diez" height="50" width="50" /></a>
+    <a href="https://instagram.com/carlos.edz_" target="blank"><img align="center"
+        src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"
+        alt="carlos.edz_" height="50" width="50" /></a>
+    <a href="https://stackoverflow.com/users/31797554/new-carlosest" target="blank"><img align="center"
+      src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"
+      alt="new-CarlosEst" height="50" width="50" /></a>
+      <a href="https://github.com/new-CarlosEst" target="blank"><img align="center"
+      src="https://img.icons8.com/doodle/40/000000/github--v1.png"
+      alt="new-CarlosEst" height="50" width="50" /></a>
+</p>
