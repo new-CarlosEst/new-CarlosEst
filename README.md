@@ -9,7 +9,7 @@
     alt="new-CarlosEst" /> 
   </p>
 
-<p><img align="right" src="new-CarlosEst.gif" alt="adam-pw" /></p>
+<p><img align="right" src="new-CarlosEst.gif" alt="new-CarlosEst" width=50% height=50% /></p>
 
 ### 👨🏻‍💻  About Me
 - 🎓 I'm currently learning web development and other languages and technologies.
