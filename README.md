@@ -53,8 +53,19 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=new-CarlosEst&layout=compact&langs_count=8&theme=algolia"/>
   </a>
   
-  <p align = "center">
-	<img src="https://jandee.vercel.app/new-CarlosEst?scheme=dark" alt="GitHub Contributions Calendar">
+  <!-- Incluye la librería -->
+<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css" />
+
+<!-- Contenedor donde aparecerá el calendario -->
+<div class="calendar">
+  Loading the data just for you.
+</div>
+
+<script>
+  GitHubCalendar(".calendar", "new‑CarlosEst", { responsive: true });
+</script>
+
 </p>
 <h2></h2>
 <!-- Para conetactarme -->
