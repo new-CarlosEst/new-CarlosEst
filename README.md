@@ -52,6 +52,9 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=new-CarlosEst&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+<p align = "center">
+	<img src = "https://github.com/new-CarlosEst/new-CarlosEst/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 <h2></h2>
 <!-- Para conetactarme -->
 <h3 align="center">Connect with me:</h3>
