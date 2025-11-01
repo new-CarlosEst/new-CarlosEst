@@ -44,6 +44,7 @@
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)&nbsp;
 
 <!-- Estadisticas y lenguajes -->
+<h2>Ny Github Stats</h2>
 <p align="center">
   <a href="https://github.com/new-CarlosEst">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=new-CarlosEst&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -51,9 +52,9 @@
   <a href="https://github.com/new-CarlosEst">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=new-CarlosEst&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-</p>
-<p align = "center">
-	<img src = "https://github.com/new-CarlosEst/new-CarlosEst/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+  
+  <p align = "center">
+	<img src="https://jandee.vercel.app/new-CarlosEst?scheme=dark" alt="GitHub Contributions Calendar">
 </p>
 <h2></h2>
 <!-- Para conetactarme -->
