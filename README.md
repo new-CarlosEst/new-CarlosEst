@@ -44,7 +44,7 @@
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)&nbsp;
 
 <!-- Estadisticas y lenguajes -->
-<h2>Ny Github Stats</h2>
+<h2>My Github Stats</h2>
 <p align="center">
   <a href="https://github.com/new-CarlosEst">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=new-CarlosEst&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
