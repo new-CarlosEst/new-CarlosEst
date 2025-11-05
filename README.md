@@ -60,7 +60,7 @@
 <!-- Para conetactarme -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="www.linkedin.com/in/new-carlosest" target="_blank"><img align="center"
+    <a href="https://www.linkedin.com/in/new-carlosest" target="_blank"><img align="center"
         src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"
         alt="Carlos Esteban Diez" height="50" width="50" /></a>
     <a href="https://instagram.com/carlos.edz_" target="_blank"><img align="center"
